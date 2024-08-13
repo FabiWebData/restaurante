@@ -50,7 +50,7 @@ height: 60px;
 }
 
 #intro2{
-width: 90%;
+width: 100%;
     
 }
 /* 
@@ -80,7 +80,7 @@ seccion sobre nosotros */
 }
 
 #usleft{
-    width: 90%;
+    width: 100%;
     padding: 50px;
     text-align: justify;
 }
