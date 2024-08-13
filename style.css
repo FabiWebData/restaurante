@@ -6,8 +6,7 @@
 }
 
 /* background de toda la página */
-body{
-    background-color:black;
+body{background-color: black;
 }
 
 /* barra de navegación */
@@ -41,17 +40,18 @@ height: 60px;
     background-size:cover;
     background-repeat: no-repeat;
     display: flex;
-    justify-items: center;
-    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
     padding: 30px;
     text-align: center;
-    height: 600px;
+    size: auto;
     
 }
 
 #intro2{
+width: 90%;
     
-    width: 90%;
 }
 /* 
 texto del encabezado */
@@ -74,12 +74,13 @@ seccion sobre nosotros */
 #us{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-content: center;
+    flex-direction: column;
     padding: 50px;
 }
 
 #usleft{
-    width: 50%;
+    width: 90%;
     padding: 50px;
     text-align: justify;
 }
@@ -95,7 +96,7 @@ seccion sobre nosotros */
 #ustext{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size:20px ;
+    font-size:15px ;
     padding: 10px;
 }
 
