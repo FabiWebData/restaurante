@@ -8,11 +8,6 @@
 /* background de toda la página */
 body{
     background-color:black;
-    background-position: center;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    height: 400px;
 }
 
 /* barra de navegación */
