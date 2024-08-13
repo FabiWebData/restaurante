@@ -51,9 +51,7 @@ height: 60px;
 
 #intro2{
     
-    width: 500px;
-    height: 500px;
-    
+    width: 90%;
 }
 /* 
 texto del encabezado */
@@ -123,8 +121,7 @@ seccion sobre nosotros */
 }
 
 #usright{
-    height: 400px;
-    width: 500px;
+    width: 90%;
     filter: drop-shadow(0px 0px 5px #ebff7c);
 }
 
